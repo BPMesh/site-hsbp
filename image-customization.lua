@@ -1,7 +1,7 @@
 packages {'iwinfo'}
 
 features {
-	'autoupdater',
+	-- 'autoupdater',
 	'ebtables-filter-multicast',
 	'ebtables-filter-ra-dhcp',
 	'ebtables-limit-arp',
